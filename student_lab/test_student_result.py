@@ -1,5 +1,3 @@
-# test_student_result.py
-
 import pytest
 from student_result import get_result
 
